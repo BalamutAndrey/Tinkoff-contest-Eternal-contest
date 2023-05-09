@@ -1,0 +1,1 @@
+gcc ./src/main.c -Wall -Wextra -Werror -o task_c.exe
